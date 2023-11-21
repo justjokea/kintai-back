@@ -21,8 +21,6 @@ public class attendanceDay {
 	private String bikou;
 	private int isdel;
 	
-	
-	
 	public attendanceDay(int nengabbibangou, int year, int month, int day, char youbi, Time syukkinzikan,
 			Time taikinzikan, Time kyuukeizikan, int syainbanｇou, int syuuseikaisuu, LocalDateTime saigosyuuseizikan,
 			int saigosyuuseisya, String sigotonaiyou, String bikou, int isdel) {

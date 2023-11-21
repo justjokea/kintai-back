@@ -13,7 +13,6 @@ public class workSummary {
 	private int kakuteiflg;
 	private int isdel;
 	
-	
 	public workSummary(int nengatsubangou, int year, int month, int nitisuu, float roudouzikan, int heizitsusuu,
 			int syukuzisusuu, int syainbangou, int syukkinitisuu, int kakuteiflg, int isdel) {
 		super();

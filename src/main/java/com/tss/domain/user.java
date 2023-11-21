@@ -43,7 +43,5 @@ public class user {
 	public String toString() {
 		return "user [syainbangou=" + syainbangou + ", loginid=" + loginid + ", password=" + password + ", isdel="
 				+ isdel + "]";
-	}
-	
-	
+	}	
 }
